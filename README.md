@@ -1,4 +1,4 @@
-# Jessica Zimondi | Frontend Developer & Creative Technologist
+# Jessica Zimondi
 
 Hello! I’m Jessica — a final year Informatics student passionate about building elegant, user-friendly web applications. I specialize in frontend development, combining creativity with technical precision to create immersive digital experiences.
 
