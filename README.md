@@ -2,7 +2,7 @@
 
 Hello! I’m Jessica — a final year Informatics student passionate about building elegant, user-friendly web applications. I specialize in frontend development, combining creativity with technical precision to create immersive digital experiences.
 
-I'm currently deepening my expertise in Angular, .NET, and PostgreSQL, while expanding into React and modern frameworks like Next.js. With a strong eye for design and a structured approach to problem-solving, I enjoy crafting solutions that are both functional and visually compelling.
+I'm currently deepening my expertise in Angular, .NET Core, and SQL Server, while expanding into React and modern frameworks like Next.js. With a strong eye for design and a structured approach to problem-solving, I enjoy crafting solutions that are both functional and visually compelling.
 
 
 ---
